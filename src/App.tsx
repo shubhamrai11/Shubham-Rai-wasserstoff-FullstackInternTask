@@ -180,7 +180,7 @@ function App() {
             />
             <ISTDateTime />
             <Link
-              href="https://github.com/satyamnoob"
+              href="https://github.com/shubhamrai11"
               target="_blank"
               underline="none"
               sx={{ display: "flex" }}
