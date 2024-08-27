@@ -24,7 +24,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/satyamnoob/the-weather-forecasting.git
+   https://github.com/shubhamrai11/shubham-rai-wasserstoff-FullstackInternTask.git
    cd the-weather-forecasting
    ```
 
