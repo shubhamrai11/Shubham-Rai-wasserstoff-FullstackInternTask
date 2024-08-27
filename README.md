@@ -36,8 +36,8 @@
 3. **Create a .env file**:
 Create a .env file in the root directory and add your API keys:
    ```bash
-   VITE_GEO_DB_API_KEY="your_geodb_api_key"
-   VITE_WEATHER_API_KEY="your_openweathermap_api_key"
+   VITE_GEO_DB_API_KEY="31ffd77d51msh2ad940c225256dfp10b27ejsnaf55f1346df1"
+   VITE_WEATHER_API_KEY="569793be71a1c1ad48aaefd7970fe7fa"
    ```
 
 4. **Start the application**:
