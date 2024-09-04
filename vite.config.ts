@@ -10,5 +10,5 @@ export default defineConfig({
       include: "**/*.svg?react",
     })
   ],
-  base: "/ShubhamRai-wasserstoff-FullstackInternTask/",
+  
 })
